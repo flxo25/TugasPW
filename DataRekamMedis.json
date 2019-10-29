@@ -1,0 +1,101 @@
+[
+ {
+   "Nama": "Soumindar Qolby",
+   "NIK": 272727,
+   "Tanggal": "20/10/2019",
+   "Jenis Kelamin": "L",
+   "Usia": 20,
+   "Golongan Darah": "A",
+   "Perlakuan Medis": "Pemeriksaan tenggorokan",
+   "Diagnosa": "Radang tenggorokan",
+   "Pemberian Obat": "obat radang"
+ },
+ {
+   "Nama": "Fawwaz Mayda",
+   "NIK": 120120,
+   "Tanggal": "21/10/2019",
+   "Jenis Kelamin": "L",
+   "Usia": 20,
+   "Golongan Darah": "O",
+   "Perlakuan Medis": "Pemeriksaan suhu badan, pemeriksaan hidung dan tenggorokan",
+   "Diagnosa": "Flu",
+   "Pemberian Obat": "obat flu"
+ },
+ {
+   "Nama": "Felix Ogustino",
+   "NIK": 908908,
+   "Tanggal": "21.10.2019",
+   "Jenis Kelamin": "L",
+   "Usia": 20,
+   "Golongan Darah": "A",
+   "Perlakuan Medis": "Pembersihan Luka",
+   "Diagnosa": "Luka kecil",
+   "Pemberian Obat": "Antiseptik luka"
+ },
+ {
+   "Nama": "Soumindar Qolby",
+   "NIK": 272727,
+   "Tanggal": "22/10/2019",
+   "Jenis Kelamin": "L",
+   "Usia": 20,
+   "Golongan Darah": "A",
+   "Perlakuan Medis": "Pemeriksaan tenggorokan, pemeriksaan suhu badan, pemeriksaan hidung",
+   "Diagnosa": "Flu",
+   "Pemberian Obat": "obat flu, obat demam"
+ },
+ {
+   "Nama": "Fawwaz Mayda",
+   "NIK": 120120,
+   "Tanggal": "23/10/2019",
+   "Jenis Kelamin": "L",
+   "Usia": 20,
+   "Golongan Darah": "O",
+   "Perlakuan Medis": "Pemeriksaan mata, pembersihan mata",
+   "Diagnosa": "Mata kelilipan serangga\n",
+   "Pemberian Obat": "obat tetes mata"
+ },
+ {
+   "Nama": "Fawwaz Mayda",
+   "NIK": 120120,
+   "Tanggal": "25/10/2019",
+   "Jenis Kelamin": "L",
+   "Usia": 20,
+   "Golongan Darah": "O",
+   "Perlakuan Medis": "Pemeriksaan kulit",
+   "Diagnosa": "alergi kacang",
+   "Pemberian Obat": "obat anti alergi"
+ },
+ {
+   "Nama": "Felix Ogustino",
+   "NIK": 908908,
+   "Tanggal": "27/10/2019",
+   "Jenis Kelamin": "L",
+   "Usia": 20,
+   "Golongan Darah": "A",
+   "Perlakuan Medis": "pemeriksaan sendi dan otot",
+   "Diagnosa": "lutut terkilir\n",
+   "Pemberian Obat": "fisioterapi, salep\n"
+ },
+ {
+   "Nama": "Ghanis Dhiyaulhaq",
+   "NIK": 354354,
+   "Tanggal": "28/10/2019",
+   "Jenis Kelamin": "L",
+   "Usia": 21,
+   "Golongan Darah": "O",
+   "Perlakuan Medis": "Pemberian minum",
+   "Diagnosa": "Dehidrasi",
+   "Pemberian Obat": "Le Minerale"
+ },
+ {
+   "Nama": "Ghanis Dhiyaulhaq",
+   "NIK": 354354,
+   "Tanggal": "29/10/2019",
+   "Jenis Kelamin": "L",
+   "Usia": 21,
+   "Golongan Darah": "O",
+   "Perlakuan Medis": "Pemeriksaan perut",
+   "Diagnosa": "Maag",
+   "Pemberian Obat": "Promag"
+ }
+]
